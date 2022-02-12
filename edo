@@ -1,10 +1,10 @@
 /**
- * @name AssignBadges
- * @version 1.0.23
+ * @name orkubabarozetkökle
+ * @version 2.0.31
  * @description Allows you to locally assign badges to users through the user context menu.
- * @author QWERT
- * @source https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges
- * @updateUrl https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js
+ * @author erdo
+ * @source https://github.com/tayyip31/erdo/BetterDiscordPlugins/tree/main/orkubabarozetkökle
+ * @updateUrl https://github.com/tayyip31/erdo/BetterDiscordPlugins/main/orkubabarozetkökle/orkubabarozetkökle.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -31,21 +31,21 @@
 /* Generated Code */
 const config = {
   info: {
-    name: "AssignBadges",
+    name: "orkunbabarozetkökle",
     version: "1.0.23",
     description:
       "Allows you to locally assign badges to users through the user context menu.",
     authors: [
       {
-        name: "QWERT",
-        discord_id: "678556376640913408",
-        github_username: "QWERTxD",
+        name: "erdo",
+        discord_id: "765644797934567494",
+        github_username: "erdo",
       },
     ],
     github:
-      "https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges",
+      "https://github.com/tayyip31/BetterDiscordPlugins/tree/main/AssignBadges",
     github_raw:
-      "https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js",
+      "https://raw.githubusercontent.com/tayyip31/BetterDiscordPlugins/main/orkunbabarozetkökle/orkunbabarozetkökle.plugin.js",
   },
   build: {
     zlibrary: true,
